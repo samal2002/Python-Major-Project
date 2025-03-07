@@ -61,7 +61,7 @@ python manage.py runserver
 
 Now, open your browser and go to: http://127.0.0.1:8000/
 
-📂 Directory Structure
+📂 Directory Structure (After Commit)
 
 mealmate/
 │── delivery/
@@ -92,6 +92,8 @@ mealmate/
 │   │── views.py
 │── manage.py
 │── requirements.txt
+│── .gitignore
+│── README.md
 
 📡 API Endpoints (If Using Django REST Framework)
 
